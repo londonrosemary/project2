@@ -1,5 +1,5 @@
 # project2
-HouseTeaMadeLocal
+HouseTeaMadeLocally
 
 This app will help a user shop for specialty teas. 
 
