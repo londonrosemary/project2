@@ -15,4 +15,4 @@ function TeaList({teas}) {
     )
 }
 
-export default TeaList;
+ export default TeaList;

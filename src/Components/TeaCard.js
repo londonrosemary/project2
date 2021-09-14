@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 function TeaCard({tea}) {
     const {id, name, image, caffeinated, category, rating, description, price, keywords} = tea
@@ -9,6 +10,13 @@ function TeaCard({tea}) {
             <h5>Rating: {rating}</h5>
             {}
         </li>
+=======
+function TeaCard() {
+    return (
+        <div>
+
+        </div>
+>>>>>>> 497ca3d3dc8bf18749703084c189aaec247bcef5
     )
 }
 

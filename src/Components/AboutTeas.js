@@ -1,9 +1,7 @@
-
-
 function AboutTeas() {
     return (
         <div>
-            
+
         </div>
     )
 }
