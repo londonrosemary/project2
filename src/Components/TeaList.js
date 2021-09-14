@@ -1,10 +1,17 @@
 import TeaCard from './TeaCard'
 
-function TeaList() {
+function TeaList({teas}) {
     return (
-        <>
-        <TeaCard />
-        </>
+        <ul>
+            {teas.map((tea) => {
+                return(
+                    <TeaCard 
+                    key={tea.id}
+                    tea={tea}/>
+                )
+            })}
+            
+        </ul>
     )
 }
 
