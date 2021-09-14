@@ -2,7 +2,7 @@
     "teas": [
       {
         "id": 1,
-        "name": "Assam",
+        "name": "Assam Boomer",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Assam-Tee_SFTGFOP1.jpg",
         "caffeinated" : true,
         "category" : "black",
