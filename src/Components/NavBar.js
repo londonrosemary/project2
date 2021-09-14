@@ -5,11 +5,11 @@ import ShoppingCart from './ShoppingCart'
 
 function NavBar() {
     return (
-    <>
+    <div>
     <AboutUs />
     <AboutTeas />
     <ShoppingCart />
-    </>
+    <div/>
     )
 }
 
