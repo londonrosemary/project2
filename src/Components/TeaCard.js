@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 function TeaCard({tea}) {
     const {id, name, image, caffeinated, category, rating, description, price, keywords} = tea
@@ -8,15 +7,10 @@ function TeaCard({tea}) {
             <h4>Name: {name}</h4>
             <h5>Type: {category}</h5>
             <h5>Rating: {rating}</h5>
-            {}
+            {caffeinated ? 
+            (<h5>Caffeinated</h5>) : 
+            (<h5>"Decaffeinated"</h5>)}
         </li>
-=======
-function TeaCard() {
-    return (
-        <div>
-
-        </div>
->>>>>>> 497ca3d3dc8bf18749703084c189aaec247bcef5
     )
 }
 

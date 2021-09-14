@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react'
- import teas from "../../../project2/db.json"
+ import teas from "./db.json"
 
 
 
