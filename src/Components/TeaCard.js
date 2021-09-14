@@ -1,8 +1,7 @@
-
 function TeaCard() {
     return (
         <div>
-            
+
         </div>
     )
 }

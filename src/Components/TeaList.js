@@ -1,11 +1,11 @@
 import TeaCard from './TeaCard'
 
-function TeaList() {
-    return (
-        <>
-        <TeaCard />
-        </>
-    )
-}
+ function TeaList() {
+     return (
+         <>
+         <TeaCard />
+         </>
+     )
+ }
 
-export default TeaList;
+ export default TeaList;
